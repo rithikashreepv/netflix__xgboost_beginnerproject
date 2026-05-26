@@ -1,2 +1,26 @@
-# netflix__xgboost_beginnerproject
-This project analyzes and predicts Netflix content trends using machine learning techniques. The dataset was cleaned and processed using Python libraries such as Pandas and Scikit-learn. An XGBoost regression model was used for prediction, and the results were visualized using Matplotlib. An interactive interface was also created using Gradio.
+## Netflix Content Prediction using XGBoost
+
+## Overview
+This project predicts Netflix content trends using machine learning techniques.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+- XGBoost
+- Gradio
+
+## Features
+- Data cleaning
+- Data visualization
+- Machine learning prediction
+- Interactive prediction interface
+
+## Dataset
+Netflix dataset was cleaned and processed for prediction analysis.
+
+## Future Improvements
+- Add more prediction features
+- Improve model accuracy
+- Deploy as a web application
